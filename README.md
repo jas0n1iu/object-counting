@@ -54,10 +54,6 @@ python app.py
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](http://private-llm-qa-bot-1466657168.us-west-2.elb.amazonaws.com/LICENSE).
-
 ## Acknowledgments
 
 - [Ultralytics](https://github.com/ultralytics/ultralytics) for the YOLOv8 model
